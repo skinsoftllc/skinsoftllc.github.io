@@ -1,0 +1,14 @@
+* {
+    text-decoration: none;
+    color: white;
+    font-family: 'Segoe UI'; 
+    src: url(ui.ttf);
+}
+
+body {
+    background-image: url(catskin.jpg);
+}
+
+.headera {
+    font-size: 40;
+}
